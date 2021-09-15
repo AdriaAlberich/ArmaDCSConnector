@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "FerXCa6f1VRctRwpkDhE52kz3aVPcMhOxKabWqKCMoqYzt9Ml55lmo3l8+TRL6CqWv2WM90sX68e7q0nxnCO8A==",
+  "success": true,
+  "projectFilePath": "F:\\Repositorios\\ArmaDCSConnector\\src\\ArmaDCSConnector\\ArmaDCSConnector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc-Com\\.nuget\\packages\\unmanagedexports\\1.2.7\\unmanagedexports.1.2.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'UnmanagedExports 1.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "UnmanagedExports",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
